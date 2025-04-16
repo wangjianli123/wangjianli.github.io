@@ -1,0 +1,348 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="files/jemdoc.css" type="text/css" />
+
+<title>Jianli Wang</title>
+
+</head>
+<body>
+
+<!-- Project
+<div class="menu"> <a href="#home">Home</a> 
+<a href="#publications">Publications</a> 
+<a href="#services">Services</a> 
+<a href="#awards">Awards</a>  
+</div>
+ -->
+ 
+<a id="home" class="anchor"></a>
+<div id="container"> 
+<div class="container"> 
+<!--
+<div id="toptitle">
+<h1>Kai Zhang</h1>
+</div>
+ -->
+
+
+<table class="imgtable"><tr><td>
+<a href="./"><img src="files/CV.jpg" alt="" height="200px" /></a>&nbsp;</td>
+<td align="left"><p><font size="4">Jianli Wang（王检利）</font><br />
+<br />
+<!--
+<a href="https://vision.ee.ethz.ch/the-institute.html">Computer Vision Lab</a><br />
+ Department of Information Technology and Electrical Engineering, <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a><br />
+-->
+<br />
+School of Computing and Artificial Intelligence, Southwest Jiaotong University, Chengdu, China<br />
+
+<br />
+Email: wangjianli_123@163.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   wangjianli@swjtu.edu.cn <br />
+[<a class="p1" href="https://scholar.google.com/citations?hl=en&user=6QVFljgAAAAJ&view_op=list_works&gmla=AJsN-F67ZAKKr1GllvFpeH2jIAUsYdQP01gjutpzCN1VKcUMcU9OGAL5xiHcOlgLHX3e6XdtGDuT6kHt7D_UGQ-OEGYWsmP3Cw" target="_blank">Google Scholar</a>] [<a class="p2" href=https://faculty.swjtu.edu.cn/wangjianli/" target="_blank">Github</a>]
+[<a href="https://www.researchgate.net/profile/Jian-Li-Wang" target="_blank">ResearchGate</a>]  </p>
+</td></tr></table>
+
+<h2 style="font-size: 1.2em">课题组欢迎感兴趣的同学加入科研团队：</h2>
+
+<article style="font-size: 0.9em; color: black">
+    <h3 style="font-size: 1em; color: black">招收对象</h3>
+    <ul style="color: black">
+        <li>本科生：大二大三优先</li>
+        <li>研究生：硕士/博士研究生（欢迎有一定编程能力和数学功底的同学）</li>
+        <li>研究人员：全职/兼职研究助理</li>
+    </ul>
+</article>
+
+<article style="font-size: 0.9em; color: black">
+    <h3 style="font-size: 1em; color: black">基本要求</h3>
+    <ul style="color: black">
+        <li>学术素养：较强的科研内驱力与创新能力</li>
+        <li>技术基础：有编程能力与一定的数学功底</li>
+        <li>研究方向：图像/视频处理</li>
+    </ul>
+</article>
+
+  
+
+	
+<h2>Biography</h2>
+<p>I am currently working with the <a href="https://scai.swjtu.edu.cn/index.html">School of Computing and Artificial Intelligence</a>, <a href="https://www.swjtu.edu.cn">Southwest Jiaotong University</a>, Chengdu, China. I received the Ph.D. degree (advised by <a href="https://www.math.uestc.edu.cn/info/1183/5808.htm">Ting-Zhu Huang</a>) from the <a href="https://www.math.uestc.edu.cn/">School of Mathematical Sciences</a>, <a href="https://www.uestc.edu.cn">University of Electronic Science and Technology of China</a>, Chengdu, China, in 2022. My current research interests include tensor modeling and computing, high-dimensional image processing, computer vision, and deep learning.
+    
+<h2>Research Interest</h2>
+I work in the field of computer science and technology, with a specific focus on advancing methodologies for computational vision and intelligent image analysis. My research bridges tensor modeling, high-performance computing, and multimodal learning to address challenges in large-scale visual data processing and restoration. Currently, I explore hybrid frameworks that integrate physics-driven models with data-driven AI techniques to achieve robust, scalable, and interpretable solutions for complex imaging tasks. 
+My recent work centers on the following themes：
+<ul>
+<li>Efficient Image Reconstruction with Deep Priors</li>
+<li>Cloud Removal in Remote Sensing Images</li>
+<li>Unsupervised Image Deblurring with Uncertainty Modeling</li>
+<li>Advanced Denoising Techniques for Hyperspectral Images</li>
+</ul>
+
+
+
+<h2>News</h2>
+<ul>
+<li>2024.7.1: Two papers has been accepted by <b>European Conference on Computer Vision (ECCV) 2024</b>.</li>
+<li>2024.1.11: One paper "Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior" has been accepted by <b>IEEE Transactions on Computational Imaging.</b></li>
+<li>2023.7.11: One paper "Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images" has been accepted by <b>IEEE Transactions on Geoscience and Remote Sensing</b>.</li>
+</ul>
+
+	
+<!-- Project -->
+<a id="publications" class="anchor"></a>
+<h2>Publications</h2>
+
+
+    <div class="year-group">
+        <h3 class="year">2024</h3>  <!-- 修改年份标签为标题 -->
+        <table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="files/Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior</p>
+<p class="pub_author">Yu-Chun Miao, Xi-Le Zhao, <b>Jian-Li Wang*</b>, Xiao Fu, Yao Wang<br>
+    IEEE Transactions on Computational Imaging</i>, 2024.<br>
+[<a href= "https://ieeexplore.ieee.org/abstract/document/10388408" target="_blank">PDF</a>] 
+</p> </td>
+</tr>
+</table></div>
+
+<table class="imgtable"></table>
+<div class="year-group">
+    <h3 class="year">2023</h3>  
+    <table class="imgtable">
+
+<tr>
+    <td><img class="proj_thumb" src="files\Unsupervised Domain Factorization Network for Thick Cloud Removal of Multitemporal Remotely Sensed Images.png" alt="" height="100px"/>&nbsp;</td>
+    <td>
+    <p class="pub_title">Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images</p>
+    <p class="pub_author"><b>Jian-Li Wang*</b>, Xi-Le Zhao, Heng-Chao Li, Ke-Xiang Cao, Jiaqing Miao<br>
+        IEEE Transactions on Geoscience and Remote Sensing</i>, 2023.<br>
+    [<a href= "https://ieeexplore.ieee.org/document/10210592" target="_blank">PDF</a>] 
+    </p> </td>
+    </tr>
+
+
+<tr>
+<td><img class="proj_thumb" src="files\Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">Uncertainty-Aware Unsupervised Image Deblurring With Deep Residual Prior</p>
+<p class="pub_author"> Xiaole Tang, Xile Zhao, Jun Liu, <b>Jianli Wang*</b>, Yuchun Miao, Tieyong Zeng<br>
+    IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023.<br>
+[<a href= "https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Uncertainty-Aware_Unsupervised_Image_Deblurring_With_Deep_Residual_Prior_CVPR_2023_paper.html" target="_blank">PDF</a>] 
+</p> </td>
+</tr>
+
+	
+<tr>
+<td><img class="proj_thumb" src="files/H2TF.jpg" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization</p>
+<p class="pub_author">Jia-Yi Li, Jin-Yu Xie, Yi-Si Luo, Xi-Le Zhao, <b>Jianli Wang*</b><br>
+IEEE Geoscience and Remote Sensing Letters</i>, 2023.<br>
+[<a href= "https://ieeexplore.ieee.org/abstract/document/10181304" target="_blank">PDF</a>] 
+</p> </td>
+</tr>	
+</table></div>
+
+<div class="year-group">
+    <h3 class="year">2022</h3>  
+    <table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="files/CoNoT.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multidimensional Image Completion</p>
+<p class="pub_author"><b>Jianli Wang*</b>, Ting-Zhu Huang, Xi-Le Zhao, Yi-Si Luo<br>
+    IEEE Transactions on Neural Networks and Learning Systems</i>, 2022.<br>
+[<a href= "https://ieeexplore.ieee.org/document/9946011" target="_blank">PDF</a>] 
+</p> </td>
+</tr>	
+
+
+
+<tr>
+<td><img class="proj_thumb" src="files/Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">Complex Video Completion Fusing Low-Rank Background and Deep Foreground Priors</p>
+<p class="pub_author"><b>Jianli Wang*</b>, Ting-Zhu Huang, Xi-Le Zhao, Yu-Chun Miao<br>
+    IEEE Signal Processing Letters</i>, 2022.<br>
+[<a href= "https://ieeexplore.ieee.org/document/10024411" target="_blank">PDF</a>] 
+</p> </td>
+</tr>
+
+
+<tr>
+<td><img class="proj_thumb" src="files/Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep  Spatial–Spectral Prior.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial-Spectral Prior</p>
+<p class="pub_author">Wei-Hao Wu, Ting-Zhu Huang, Xi-Le Zhao, <b>Jianli Wang*</b>, Yu-Bang Zheng, 
+    IEEE Transactions on Geoscience and Remote Sensing, 2022.<br>
+[<a href= "https://ieeexplore.ieee.org/document/9992168" target="_blank">PDF</a>] 
+</tr>
+
+	
+<tr>
+<td><img class="proj_thumb" src="files/Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors</p>
+<p class="pub_author">Yu-Chun Miao, Xi-Le Zhao, Xiao Fu, <b>Jianli Wang*</b>, Yu-Bang Zheng<br>
+    IEEE Transactions on Geoscience and Remote Sensing</i> (<b>ICCVW</b>), 2022.<br>
+[<a href= "https://ieeexplore.ieee.org/document/9524362" target="_blank">PDF</a>] 
+</p> </td>
+</tr>
+</table></div>
+
+<div class="year-group">
+    <h3 class="year">2021</h3>  
+    <table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="files/Multi-Dimensional Visual Data Completion via  Low-Rank Tensor Representation Under  Coupled Transform.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform </p>
+<p class="pub_author"><b>Jianli Wang*</b>, Ting-Zhu Huang, Xi-Le Zhao, Tai-Xiang Jiang, Michael K. Ng<br>
+    IEEE Transactions on Image Processing</i>, 2021.<br>
+[<a href= "https://ieeexplore.ieee.org/document/9372832" target="_blank">PDF</a>] 
+[<a href="https://wangjianli123.github.io/images/poster_4.pdf" target="_blank">Poster</a>] 
+</p> </td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="files/Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior, in IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2021,.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">Hyperspectral Denoising via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior </p>
+<p class="pub_author"><b>Jianli Wang*</b>, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, Tai-Xiang Jiang<br>
+    IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS</b>)</i> (<b>ICCV</b>), 2021.<br>
+[<a href= "https://ieeexplore.ieee.org/abstract/document/9555068" target="_blank">PDF</a>]
+</p> </td>
+</tr>
+	
+
+<tr>
+<td><img class="proj_thumb" src="files/Tensor Completion via Collaborative Sparse and Low-Rank Transforms.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">Tensor Completion via Collaborative Sparse and Low-Rank Transforms </p>
+<p class="pub_author">Ben-Zheng Li, Xi-Le Zhao, <b>Jianli Wang*</b>, Yong Chen, Tai-Xiang Jiang, Jun liu<br>
+IIEEE Transactions on Computational Imaging</i> , 2021.<br>
+[<a href= "https://ieeexplore.ieee.org/document/9612046" target="_blank">PDF</a>] 
+</p> </td>
+</tr>
+</table></div>
+
+
+<div class="year-group">
+    <h3 class="year">2019</h3>  
+    <table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="files/Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping</p>
+<p class="pub_author"><b>Jianli Wang*</b>, Ting-Zhu Huang, Xi-Le Zhao, Jie Huang, Tian-Hui Ma, Yu-Bang Zheng<br>
+    IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i> (<b>ICCV</b>), 2019.<br>
+[<a href= "https://ieeexplore.ieee.org/document/8855071" target="_blank">PDF</a>] 
+[<a href="https://wangjianli123.github.io/codes/code_RBSUTV.zip" target="_blank">Code</a>] 
+</p> </td>
+</tr>
+
+
+<tr>
+<td><img class="proj_thumb" src="files/A sheared low-rank model for oblique stripe removal.png" alt="" height="100px"/>&nbsp;</td>
+<td>
+<p class="pub_title">A Sheared Low-Rank Model for Oblique Stripe Removal </p>
+<p class="pub_author"><b>Jianli Wang*</b>, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Yong Chen<br>
+    Applied Mathematics and Computation</i> , 2019.<br>
+[<a href= "https://www.sciencedirect.com/science/article/pii/S0096300319302747" target="_blank">PDF</a>] 
+[<a href="https://wangjianli123.github.io/codes/code_oblique_stripe_removal.zip" target="_blank">Code</a>]
+</p> </td>
+</tr>
+</table></div>
+
+
+</table>
+
+<!-- Services -->
+<a id="services" class="anchor"></a>
+<h2>Services</h2>
+
+<li>IEEE Transactions on Image Processing (IEEE TIP), Reviewer</li>
+<li>IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Reviewer</li>
+<li>IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), Reviewer</li>
+<li>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer</li>
+<li>IEEE Transactions on Computational Imaging (IEEE TCI), Reviewer</li>
+
+
+<!-- students -->
+<a id="students" class="achor"></a>
+<h2>Educations</h2>
+<p>PhD students: </p>
+<font size="2">
+<ul>
+<li><p>2019.09-2022.12:University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a>)</p></li>
+<li><p>2017.09-2019.07:University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a>)</p></li>
+</ul>
+</font>	
+
+<p>Master students: </p>
+<font size="2"> 
+<ul>
+<li>2013.09-2017.07: Neijiang Normal University; Bachelor student in the School of Mathematical Sciences (Supervisor: Prof. Yongguo Shi)</li>
+</ul>
+</font>	
+
+
+<!-- awards -->
+<a id="awards" class="achor"></a>
+<h2>Awards</h2>
+<font size="2"> 
+<ul>
+<li>Academic Rookie (学术新秀), UESTC, 2021</li>
+<li>Special Postgraduate Scholarship of Science (理科特别奖学金), UESTC, 2019</li>
+</ul>
+</font>
+
+<a id="awards" class="achor"></a>
+<h2>Fundings</h2>
+<font size="2"> 
+<ul>
+<li>National Natural Science Foundation of China, Youth Program, Principal Investigator (国家自然科学基金青年项目, 主持), 2024.01-2026.12</li>
+<li>National Natural Science Foundation of China, General Program, Principal Investigator (国家自然科学基金面上项目, 主持), 2019.01-2022.12</li>
+</ul>
+</font>
+
+
+<a id="awards" class="achor"></a>
+<h2>Academic Activities</h2>
+<font size="2"> 
+<ul>
+<li>10/2021: "Multi - Dimensional Visual Data Completion via Low - Rank Tensor Representation Under Coupled Transform", CSIAM 2021, <b>Anhui, China</b>, <a href="https://wangjianli123.github.io/images/IGRASS2021_1400.pdf">[Slide]</a></li>
+<li>07/2021: "Hyperspectral Denoising Via Global Tensor Ring Decomposition and Local Unsupervised Deep Image Prior", IGARSS 2021, <b>Online</b>, <a href="https://wangjianli123.github.io/images/IGRASS2021_1400.pdf">[Slide]</a></li>
+</ul>
+</font>
+<!-- Links -->
+
+<!-- Links 
+<h2>Music</h2>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/-5qhNRmMilI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+<iframe width="280" height="157" src="https://www.youtube.com/embed/AVXejOoPECA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/xTRVZbHjmbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+-->
+	
+	
+	
+<div id="footer">
+<div id="footer-text">
+<!--
+All Rights Reserved. Part of page is generated by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+-->
+
+</div>
+</div>
+<a href="https://clustrmaps.com/site/1b743"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=7HOnPG-tgP2NBIq9v142wI5iM0mQ3OwnnIRnYxx5SdI&cl=ffffff" width=1pt height=1pt/></a>
+</body>
+</html>
