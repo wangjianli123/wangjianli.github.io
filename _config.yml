@@ -1,3 +1,5 @@
+baseurl: "/homepage" 
+url: "https://wangjianli123.github.io"
 theme: jekyll-theme-hacker
 title: Homepage of Jianli Wang (王检利)
 email: wangjianli_123@163.com
