@@ -1,14 +1,10 @@
 baseurl: "/homepage" 
 url: "https://wangjianli123.github.io"
 theme: jekyll-theme-hacker
-title: Homepage of Jianli Wang (王检利)
 email: wangjianli_123@163.com
 description: Jian-Li Wang
 github_username: wangjianli123
-viewsourceroot: https://github.com/wangjianli123/wangjianli.github.io/blob/master/
-newsourceroot: https://github.com/wangjianli123/wangjianli.github.io/
 duoshuo_shortname: jlwang
-duoshuo_url: "https://github.com/wangjianli123/"
 permalink: /:title/
 markdown: kramdown
 port: 4001
