@@ -2,7 +2,7 @@ baseurl: "/homepage"
 url: "https://wangjianli123.github.io"
 theme: jekyll-theme-hacker
 email: wangjianli_123@163.com
-description: Jian-Li Wang
+#description: Jian-Li Wang
 github_username: wangjianli123
 duoshuo_shortname: jlwang
 permalink: /:title/
