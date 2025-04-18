@@ -60,6 +60,9 @@
 	background: #fff;
 	padding: 14px 14px 14px 14px; /* top right bottom left */
 	z-index: 1;
+	border-left: 2px solid #3498db; /* 新增左边框 */
+    	border-right: 2px solid #3498db; /* 新增右边框 */
+    	padding: 20px; /* 调整内边距 */
 }
 
 a.anchor {
@@ -83,6 +86,7 @@ body {
 	font-family: Roboto, Times New Roman;
 	padding-bottom: 8px;
 	margin: 0;
+	font-size: 18px;
 }
 
 #layout-menu {
@@ -211,7 +215,7 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 165%;
+	font-size: 2em;
 }
 
 h2 {
