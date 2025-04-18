@@ -1,6 +1,6 @@
 baseurl: "/homepage" 
 url: "https://wangjianli123.github.io"
-theme: jekyll-theme-hacker
+theme: ./files/jemdoc.css
 email: wangjianli_123@163.com
 #description: Jian-Li Wang
 github_username: wangjianli123
