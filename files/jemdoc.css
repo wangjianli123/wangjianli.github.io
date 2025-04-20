@@ -2,7 +2,11 @@
 
 /* Menu */
 #topline{
-	display:none:
+	display:none;
+}
+	
+h1:first-of-type {
+    display: none !important;
 }
 
 .menu {
