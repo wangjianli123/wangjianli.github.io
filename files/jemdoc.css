@@ -446,7 +446,8 @@ img.eqwl {
 }
 
 img.proj_thumb {
-	width: 180px;
+	width: 220px;
+	hight:auto;
 	border: 1px solid;
 	border-color: #e0e0e0;
 	padding: 1px;
