@@ -5,6 +5,9 @@
 	display:none;
 }
 
+h1:first-of-type {
+    display: none !important;
+}
 
 .menu {
 	background-color: rgb(250,0,255);
