@@ -86,7 +86,7 @@ body {
 	font-family: Roboto, Times New Roman;
 	padding-bottom: 8px;
 	margin: 0;
-	font-size: 22px;
+	font-size: 20px;
 }
 
 #layout-menu {
@@ -486,7 +486,7 @@ table.imgtable, table.imgtable td {
 
 /* Publication */
 p.pub_title {
-	font-size: 1.25em;         /* 与正文接近，视觉上平衡 */
+	font-size: 1.1em;         /* 与正文接近，视觉上平衡 */
 	font-weight: bold;
 	margin-bottom: 4px;
 	line-height: 1.4;
@@ -495,14 +495,14 @@ p.pub_title {
 }
 
 p.pub_author {
-	font-size: 1.1em;          /* 与正文一致 */
+	font-size: 1.0em;          /* 与正文一致 */
 	line-height: 1.5;
 	overflow-wrap: break-word;
 	word-break: break-word;
 }
 
 p.pub_link {
-	font-size: 1.1em;          /* 与正文一致 */
+	font-size: 1.0em;          /* 与正文一致 */
 	line-height: 1.5;
 	overflow-wrap: break-word;
 	word-break: break-word;
