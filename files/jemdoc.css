@@ -508,3 +508,18 @@ p.pub_link {
 	overflow-wrap: break-word;
 	word-break: break-word;
 }
+
+
+p.main_title {
+    font-size: 1.3em;  /* 比正文略大 */
+    font-weight: bold;
+    margin-bottom: 0.3em;
+    line-height: 1.4;
+}
+
+
+p.info_text {
+    font-size: 0.95em;  /* 比正文略小 */
+    line-height: 1.5;
+    margin-top: 0.2em;
+}
